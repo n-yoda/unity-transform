@@ -84,7 +84,7 @@ GameObject:
   - 4: {fileID: 460090131}
   - 114: {fileID: 460090130}
   m_Layer: 0
-  m_Name: TransformMatrixTest
+  m_Name: Matrix Calculation Test
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
